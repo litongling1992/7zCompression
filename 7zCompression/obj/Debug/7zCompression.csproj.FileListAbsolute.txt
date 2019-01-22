@@ -1,0 +1,6 @@
+D:\play-project\GitHub-Project\Comprssion\7zCompression\7zCompression\bin\Debug\7zCompression.dll
+D:\play-project\GitHub-Project\Comprssion\7zCompression\7zCompression\bin\Debug\7zCompression.pdb
+D:\play-project\GitHub-Project\Comprssion\7zCompression\7zCompression\obj\Debug\7zCompression.dll
+D:\play-project\GitHub-Project\Comprssion\7zCompression\7zCompression\obj\Debug\7zCompression.pdb
+D:\play-project\GitHub-Project\Comprssion\7zCompression\bin\Debug\7zCompression.dll
+D:\play-project\GitHub-Project\Comprssion\7zCompression\bin\Debug\7zCompression.pdb
